@@ -41,6 +41,4 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%" />
 </div>
 <br>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasin-ishrak&show_icons=true&locale=en&layout=compact&theme=github_dark" />
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=hasin-ishrak&show_icons=true&locale=en&theme=github_dark" />
-<br>
+
