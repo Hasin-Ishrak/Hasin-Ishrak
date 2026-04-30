@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1a4b,30:102e6e,60:1a4fa8,100:0d2f7a&height=200&section=header&text=Hasin%20Ishrak&fontSize=48&fontColor=d6eaff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=15&descColor=9dc8f5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0a0a2e,60:0d1b4b,100:051937&height=200&section=header&text=Hasin%20Ishrak&fontSize=48&fontColor=a8d8ff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Competitive%20Programmer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=58&descSize=15&descColor=6b9fcf" width="100%"/>
 
 </div>
 
@@ -12,21 +12,21 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<img align="right" alt="Coding GIF" width="350" style="border-radius:20px; margin-left:24px;" src="https://raw.githubusercontent.com/hasin-ishrak/hasin-ishrak/main/assets/1747066072126.gif"/>
+<img align="right" alt="Coding GIF" width="350" style="border-radius:25px; margin-left:24px;" src="/assets/1747066072126.gif"/>
 
 ### 🧑‍💻 About Me
 
 🎓 **B.Sc. Software Engineering** — SUST, Sylhet
 
-🧠 Competitive programmer with a **200+ day streak**
+🧠 Competitive programmer with a **230+ day streak**
 
 🏆 **3★ CodeChef** · **Codeforces Pupil** · AtCoder participant
 
 ⚙️ Building full-stack apps — **Node.js · Express · MySQL**
 
-📚 Currently learning: **OS**, **DSA**, **Java OOP**, **React**
+📚 Currently learning: **OS**, **DSA**, **Java OOP**, **React**,**SADP**
 
-🌍 Based in **Mymensingh, Bangladesh**
+🌍 Based in **Dhaka, Bangladesh**
 
 📫 [ishrakhasin758@gmail.com](mailto:ishrakhasin758@gmail.com)
 
@@ -88,12 +88,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ### 🏆 Achievements & Roles
 
 🥇 &nbsp; **Math Olympiad Champion**
 &nbsp;&nbsp;&nbsp;&nbsp;🥈 &nbsp; **Biology Olympiad** — First Runner Up
 &nbsp;&nbsp;&nbsp;&nbsp;🥈 &nbsp; **Sudoku Olympiad** — First Runner Up
-&nbsp;&nbsp;&nbsp;&nbsp;🎯 &nbsp; **Assistant Organizing Secretary** — SWE Society, SUST
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -114,7 +116,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2f7a,40:1a4fa8,70:102e6e,100:0b1a4b&height=120&section=footer&fontColor=d6eaff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:051937,40:0d1b4b,70:0a0a2e,100:0d0221&height=120&section=footer&fontColor=a8d8ff" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=hasin-ishrak&label=Profile+Views&color=1a3a5c&style=flat-square&labelColor=0d1b4b" />
 
