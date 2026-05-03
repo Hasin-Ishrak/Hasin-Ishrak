@@ -61,8 +61,6 @@
 
 ### 🛠️ Languages & Tools
 
-<img align="left" width="200" style="margin-right:20px;" src="/assets/dot.gif"/>
-
 **Languages**
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
